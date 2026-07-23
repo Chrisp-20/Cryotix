@@ -24,7 +24,7 @@ APAGADO → ELEGIR_TIPO → ELEGIR_PERFIL / MANUAL → CUENTA_REGRESIVA → MONI
 | ESP32-S3 Supermini | Microcontrolador principal |
 | DS18B20 | Sensor de temperatura |
 | SSD1306 (OLED 128x64) | Pantalla de estado |
-| LDR | Detección de apertura del contenedor |
+| Módulo LDR | Detección de apertura del contenedor |
 | LEDs verde/rojo + buzzer | Alertas locales |
 | 4 botones (Power, Mode, Subir, Bajar) | Navegación del sistema |
 
